@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+this is my first Github commit and its moist.
 Use the left arrow to go back!
